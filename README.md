@@ -1,2 +1,6 @@
 # apac-ord-shipping-audit-log-worker
-orders / critical / apac
+
+Team: **orders**  
+Tier: **critical**  
+Region: **apac**  
+Synthetic demo repo for the Domo governance platform.
